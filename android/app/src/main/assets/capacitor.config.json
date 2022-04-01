@@ -2,5 +2,8 @@
 	"appId": "io.ionic.starter",
 	"appName": "Second",
 	"webDir": "www",
-	"bundledWebRuntime": false
+	"bundledWebRuntime": false,
+	"server": {
+		"url": "http://192.168.15.7:8100"
+	}
 }
