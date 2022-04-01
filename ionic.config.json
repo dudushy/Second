@@ -1,0 +1,8 @@
+{
+  "name": "Second",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "53fd4659"
+}
