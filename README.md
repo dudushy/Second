@@ -9,6 +9,6 @@ https://ionicframework.com/docs/angular/your-first-app
 - [x] (3) Saving Photos
 - [x] (4) Loading Photos
 - [x] (5) Adding Mobile
-- [ ] (6) Deploying Mobile
+- [x] (6) Deploying Mobile
 - [ ] (7) Live Reload
 - [ ] (8) Distribuite
