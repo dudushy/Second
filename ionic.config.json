@@ -1,7 +1,10 @@
 {
   "name": "Second",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
   },
   "type": "angular",
   "id": "53fd4659"
